@@ -31,5 +31,9 @@ yarn start:g
 or if you want it to run while you work.
 
 ```
-yarn dev
+yarn dev:s
+```
+then
+```
+yarn dev:g
 ```
